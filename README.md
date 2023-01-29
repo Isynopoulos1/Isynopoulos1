@@ -12,6 +12,7 @@ Product Design: Design System, User-centered design, Design Thinking Methodology
 User Personas, User Flows, Wireframing, Visual Design,
 Motion design in Figma, User-interaction Design, Prototyping, Video animation, and motion graphics in After Effects.
 Web development: HTML, CSS, SASS
+
 Code: Javascript, React, Nodejs and most recently Python and Vue.
 
 
