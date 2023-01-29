@@ -8,11 +8,10 @@ I also enjoy building sites and implementing a design system 🔺◼️ 🔷
 
 What I do:
 
-UI-UX: Design System, User-centered design, Design Thinking Methodology,
-User Personas, Affinity Mapping, User Journey, User Flows, Wireframing, Visual Design,
+Product Design: Design System, User-centered design, Design Thinking Methodology,
+User Personas, User Flows, Wireframing, Visual Design,
 Motion design in Figma, User-interaction Design, Prototyping, Video animation, and motion graphics in After Effects.
 Web development: HTML, CSS, SASS
-Code: Basic Javascript, React.
+Code: Javascript, React, Nodejs and most recently Python and Vue.
 
-My profile matches such a hybrid between Product designer and Junior Web Developer.
-In fact, I do love to work in both areas equally!
+
