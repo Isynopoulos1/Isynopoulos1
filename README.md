@@ -1,6 +1,6 @@
 <h1>Hello world ☺️</h1>
 
-I'm Isela and I'm a Product Designer and Junior Frontend Developer with a strong passion for design, arts & technology.
+I'm Isela and I'm a Product Designer and Frontend Developer with a strong passion for design, arts & technology.
 
 I have a huge interest in Web development, It's reflected by my knowledge in HTML, CSS, SASS, technologies such as Javascript, React, Nodejs, 
 and most recently Python and Vue.
