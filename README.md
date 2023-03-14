@@ -1,10 +1,10 @@
 <h1>Hello world ☺️</h1>
 
-I'm Isela and I'm a Product Designer and Frontend Developer with a strong passion for design, arts & technology.
+I'm a Product Designer and Frontend Developer that feels passionate for design, arts, and technology.
 
-I have a huge interest in Web development, It's reflected by my knowledge in HTML, CSS, SASS, technologies such as Javascript, React, Nodejs, 
-and most recently Python and Vue.
-I also enjoy building sites and implementing a design system 🔺 ◼️ 🔷
+My curiosity and interest in Web development took me to learn new tools such as HTML, CSS, SASS, languages as Javascript with libraries such as React and Nodejs and most recently Python and Vue.
+
+One of the things that I enjoy the most is building sites and implementing a design system. 🔺 ◼️ 🔹
 
 What I do:
 
