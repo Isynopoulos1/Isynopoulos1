@@ -13,6 +13,6 @@ Motion design in Figma, User-interaction Design, Prototyping, Video animation, a
 
 Web development: HTML, CSS, SASS
 
-Code: Javascript, React, Nodejs and most recently Python and Vue.
+Code: Javascript, React, Nodejs, Python and Vue.
 
 
