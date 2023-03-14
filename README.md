@@ -2,8 +2,7 @@
 
 I'm Isela and I'm a Product Designer and Junior Frontend Developer with a strong passion for design, arts & technology.
 
-I also have a huge interest in Web development and currently I'm getting a solid foundation in programming.
-So It's reflected by my knowledge in HTML, CSS, SASS, and a basic level in Python and Javascript with libraries such as React and Nodejs.
+I have a huge interest in Web development, It's reflected by my knowledge in HTML, CSS, SASS, technologies such as Javascript, React, Nodejs, and most recently Python, and Vue.
 I also enjoy building sites and implementing a design system 🔺◼️ 🔷
 
 What I do:
