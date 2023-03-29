@@ -1,4 +1,4 @@
-<h1>Hello world ☺️</h1>
+<h1>Hello world ✌🏽</h1>
 
 I'm a Product Designer and Frontend Developer that feels passionate for design, arts, and technology.
 
