@@ -1,6 +1,6 @@
 <h1>Hello world ✌🏽</h1>
 
-I'm a Product Designer and Frontend Developer that feels passionate for design, arts, and technology.
+I'm a Product Designer and Frontend Developer that feels passionate about design, arts, and technology.
 
 My curiosity and interest in Web development took me to learn new tools such as HTML, CSS, SASS, languages as Javascript with libraries such as React and Nodejs and most recently Python and Vue.
 
