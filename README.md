@@ -8,13 +8,17 @@ I've been working as a Front-end developer for the past 2 years, and I am motiva
 My curiosity and interest in Web development took me to learn new tools such as HTML, CSS, SASS, languages as Javascript with libraries such as React and Nodejs and most recently Python and Vue.
 One of the things that I enjoy the most is building sites and implementing a design system. 🔺 ◼️ 🔹
 
-What I do:
+- Techniques:
+Knowledge of : HTML, CSS, SASS Javascript( react, node), GitHub, Python, Vue 
+Notions of: Redux, TypeScript, databases such as MongoDB 
 
-Product Design: Design System, User-centered design, Design Thinking Methodology, User Flows, Wireframing, Visual Design,
-Motion design in Figma, User-interaction Design, Prototyping, Video animation, and motion graphics in After Effects.
 
-Web development: HTML, CSS, SASS
+- Functional:
+Knowledge of Agile methodologies (Scrum).
 
-Code: Javascript, React, Nodejs, Python and Vue.
+- Other information:
+Product Design: Design System, User-centered design, Design Thinking Methodology, 
+User Personas, User Flows, Wireframing, Visual Design,
+Motion design in Figma, User-interaction Design, Prototyping, Video animation, and motion graphics.
 
 
