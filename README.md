@@ -21,4 +21,27 @@ Product Design: Design System, User-centered design, Design Thinking Methodology
 User Personas, User Flows, Wireframing, Visual Design,
 Motion design in Figma, User-interaction Design, Prototyping, Video animation, and motion graphics.
 
+- Languages:
+Spanish  | Native
+English | Professional
+Portuguese | Basic
+
+
+- Soft Skills:
+Communication
+Teamwork
+Management skills
+Critical thinking
+Organizational
+Decision-making
+Adaptability
+Creativity
+Time management
+Problem-solving
+
+
+-Profile:
+Front-End Development
+Product Design
+
 
