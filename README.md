@@ -40,7 +40,7 @@ Time management
 Problem-solving
 
 
--Profile:
+- Profile:
 Front-End Development
 Product Design
 
