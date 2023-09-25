@@ -1,6 +1,6 @@
 <h1>Hello world ✌🏽</h1>
 
-I'm a Frontend Developer with a background as Product designer over 10 years. 
+I'm a Frontend Developer with a background as Digital designer over 10 years. 
 
 
 I've been working as a Front-end developer for the past 2 years, and I am motivated to continue growing and developing my skills. 
