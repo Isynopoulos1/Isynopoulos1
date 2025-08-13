@@ -22,8 +22,9 @@ User Personas, User Flows, Wireframing, Visual Design,
 Motion design in Figma, User-interaction Design, Prototyping, Video animation, and motion graphics.
 
 - Languages:
-Spanish  | Native
-English | Professional
+Spanish  | Native,
+English | Professional,
+French | Basic,
 Portuguese | Basic
 
 
