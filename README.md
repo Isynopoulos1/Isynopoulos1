@@ -3,7 +3,7 @@
 I'm a Frontend Developer with a background as Digital designer over 10 years. 
 
 
-I've been working as a Front-end developer for the past 2 years, and I am motivated to continue growing and developing my skills. 
+I've been working as a Front-end developer since 2020, and I am motivated to continue growing and developing my skills. 
 
 My curiosity and interest in Web development took me to learn new tools such as HTML, CSS, SASS, languages as Javascript with libraries such as React and Nodejs and most recently Python and Vue.
 One of the things that I enjoy the most is building sites and implementing a design system. 🔺 ◼️ 🔹
